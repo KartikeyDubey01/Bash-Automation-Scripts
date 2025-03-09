@@ -72,3 +72,10 @@ A script to clean up temporary files and logs to free up space on the system.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+
+### Customizing the README
+
+- The GitHub repository URL now points to `https://github.com/KartikeyDubey01/bash_script_repo.git`.
+- You can replace or expand the examples in the `Scripts` section with more specific details about the scripts you have in your repository.
+
+If you have any other sections you'd like to add or adjust (e.g., "Requirements," "Known Issues"), feel free to modify the template further!
